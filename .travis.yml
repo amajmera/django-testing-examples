@@ -6,7 +6,8 @@ python:
 
 addons:
   firefox: "latest"
-
+ 
+ 
 env:
   - DJANGO_VERSION=1.11
   - DJANGO_VERSION=2.0
